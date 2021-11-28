@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hilow.searchcar" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SearchCar" >
+        <activity
+            android:name=".Activity.User.DetailMobil"
+           android:label="@string/detail_mobil" />
+
+        <activity
+            android:name=".Activity.User.HistoryUser"
+            android:label="@string/history_user" />
+        <activity
+            android:name=".Activity.Admin.HistoryAdmin"
+            android:label="@string/history_admin" />
+        <activity
+            android:name=".DaihatsuRocky"
+            android:label="@string/detail_mobil" />
+        <activity
+            android:name=".DaihatsuSigra"
+            android:label="@string/detail_mobil" />
+        <activity
+            android:name=".DaihatsuTerios"
+            android:label="@string/detail_mobil" />
+        <activity
+            android:name=".DaihatsuAyla"
+            android:label="@string/detail_mobil" />
+        <activity
+            android:name=".HondaHrV"
+            android:label="@string/detail_mobil" />
+        <activity
+            android:name=".HondaBrio"
+            android:label="@string/detail_mobil" />
+        <activity
+            android:name=".HondaMobilio"
+            android:label="@string/detail_mobil" />
+        <activity
+            android:name=".HondaJazz"
+            android:label="@string/detail_mobil" />
+        <activity
+            android:name=".ToyotaCalya"
+            android:label="@string/detail_mobil" />
+        <activity
+            android:name=".ToyotaKijangInnova"
+            android:label="@string/detail_mobil" />
+        <activity
+            android:name=".ToyotaAgya"
+            android:label="@string/detail_mobil" />
+        <activity
+            android:name=".ToyotaAvanza"
+            android:label="@string/detail_mobil" />
+        <activity
+            android:name=".ListDaihatsu"
+            android:label="@string/list_daihatsu" />
+        <activity
+            android:name=".ListHonda"
+            android:label="@string/list_honda" />
+        <activity
+            android:name=".ListToyota"
+            android:label="@string/list_toyota" />
+        <activity
+            android:name=".ListMobil"
+            android:label="@string/list_mobil" />
+        <activity android:name=".Activity.User.ProfilUser" />
+        <activity
+            android:name=".Activity.User.KodePembayaran"
+            android:label="@string/kode_qr" />
+        <activity
+            android:name=".Activity.User.DetailPembayaran"
+            android:label="@string/detail_pembayaran" />
+        <activity
+            android:name=".Activity.User.DetailSewa"
+            android:label="@string/detail_sewa" />
+        <activity android:name=".Activity.User.LoginPenyewa" />
+        <activity android:name=".Activity.User.DaftarUser" />
+        <activity android:name=".Activity.Admin.ProfilAdmin" />
+        <activity android:name=".Activity.Admin.UpdateMobil" />
+        <activity android:name=".Activity.Admin.TambahMobil" />
+        <activity android:name=".Activity.Admin.HomeAdmin" />
+        <activity android:name=".Activity.Admin.LoginAdmin" />
+        <activity android:name=".Activity.Admin.DaftarAdmin" />
+        <activity android:name=".LoginUser" />
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity.User.MainActivity" >
+
+            <!-- Hapus Intent Filter MainActivity -->
+        </activity>
+    </application>
+
+</manifest>

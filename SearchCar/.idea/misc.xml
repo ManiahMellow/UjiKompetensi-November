@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/drawable/bg_form.xml" value="0.2755208333333333" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/drawable/bg_profil.xml" value="0.2755208333333333" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/drawable/circle.xml" value="0.2755208333333333" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/drawable/ic_tambah.xml" value="0.2755208333333333" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/drawable/ic_user.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_daftar_admin.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_daftar_user.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_daihatsu_ayla.xml" value="0.259375" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_detail_mobil.xml" value="0.2910578609000584" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_detail_sewa.xml" value="0.4" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_detail_sewa_mobil.xml" value="0.18981481481481483" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_history_admin.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_history_user.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_home_admin.xml" value="0.259375" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_honda_brio.xml" value="0.18981481481481483" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_list_mobil.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_login_admin.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_login_penyewa.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_login_user.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_profil_admin.xml" value="0.259375" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/activity_profil_user.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/item_detail_sewa.xml" value="0.4" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/item_history_admin.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/item_history_user.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/item_list_honda.xml" value="0.259375" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/layout/item_list_mobil.xml" value="0.4" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/menu/dropdown_menu.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/menu/history_menu.xml" value="0.259375" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/menu/home_menu.xml" value="0.2552083333333333" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/menu/optionmenu.xml" value="0.259375" />
+        <entry key="..\:/AndroidStudio/SearchCar/app/src/main/res/menu/tambah_menu.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

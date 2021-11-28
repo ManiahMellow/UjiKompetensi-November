@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SEARCHCAR</string>
+    <string name="detail_sewa">Detail Sewa</string>
+    <string name="detail_pembayaran">Detail dan Total Pembayaran</string>
+    <string name="kode_qr">Kode Pembayaran</string>
+    <string name="list_mobil">List Mobil</string>
+    <string name="list_toyota">Toyota</string>
+    <string name="list_honda">Honda</string>
+    <string name="list_daihatsu">Daihatsu</string>
+    <string name="detail_mobil">Detail Mobil</string>
+    <string name="history_admin">History Admin</string>
+    <string name="history_user">History User</string>
+
+    <string-array name="list_jenis_mobil">
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>Daihatsu</item>
+    </string-array>
+</resources>
